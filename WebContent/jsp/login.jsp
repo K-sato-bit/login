@@ -11,7 +11,7 @@
 		text-align: center;
 		width: 70%;
 		border: 5px solid silver;
-		margin: 30px 400px 30px 200px;
+		margin: 30px 420px 30px 180px;
 		padding:15px;
 	}
 

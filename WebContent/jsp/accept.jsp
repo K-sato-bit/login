@@ -9,7 +9,7 @@
 	body {
 		font-family: Meiryo;
 	}
-
+	
 	.logout {
 		text-align: right;
 	}
@@ -24,9 +24,9 @@
 
 	ログインに成功しました。
 
-	<div class = "logout">
-		<a href="login.jsp">ログイン画面に戻る</a>
-	</div>
+	<form action = "../jp.co.aforce.logout/logout" method = "post">
+		<div class = "logout"><input type = "submit" value = "LOGOUT"></div>
+	</form>
 	
 </body>
 </html>

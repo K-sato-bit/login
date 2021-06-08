@@ -11,7 +11,7 @@
 
 	ログアウトしました。<br>
 
-	<a href="login.jsp">ログイン画面に戻る</a>
+	<a href="../jsp/login.jsp">ログイン画面に戻る</a>
 	
 </body>
 </html>
